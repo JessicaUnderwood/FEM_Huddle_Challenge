@@ -28,8 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-!(./images/solution_desktop.png)
-!(./images/solution_mobile.png)
+![solution_mobile](https://github.com/JessicaUnderwood/FEM_Huddle_Challenge/assets/35341395/92a0a387-ad02-48fc-9c1a-c72372b8f991)
+![solution_desktop](https://github.com/JessicaUnderwood/FEM_Huddle_Challenge/assets/35341395/b376257e-20f0-4e2d-a7ff-2adfb18a0d61)
+
 
 
 ### Links
